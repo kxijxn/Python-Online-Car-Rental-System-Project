@@ -1,7 +1,4 @@
-# Hooi Kai Jun
-# TP060766
-# Looi Zhi Ming
-# TP061067
+#Online Car Rental System
 
 import os 
 

@@ -1,0 +1,7 @@
+C07 Nissan RM30/hour Available
+A09 R34 RM35/hour Available
+C10 911 RM50/hour Available
+Z02 Perodua RM30/hour Available
+Z10 Myvi RM10/Hour NotAvailable
+C80 Mercedes RM40/Hour Available
+C08 AMG RM30/Hour Available

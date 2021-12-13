@@ -1,4 +1,4 @@
-# Python-Online-Car-Rental-System-Project
+# Python-Car-Rental-System-Project
 
 This is a project that was assigned by our university, allowing me to enhance our knowledge on python.
 It is a online car rental system, that consists of 3 users, Admin, Unregistered Customers, Registered Customers.
